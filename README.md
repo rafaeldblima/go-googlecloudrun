@@ -2,6 +2,10 @@
 
 Sistema em Go que recebe um CEP brasileiro, identifica a cidade e retorna o clima atual em Celsius, Fahrenheit e Kelvin.
 
+## URL do serviço online para testes
+
+https://weather-api-612454862440.us-central1.run.app/weather/69037042
+
 ## Funcionalidades
 
 - Recebe CEP válido de 8 dígitos
